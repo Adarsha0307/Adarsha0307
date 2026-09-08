@@ -20,6 +20,14 @@ I work with **React, Node.js, Express, and PostgreSQL** to build full-stack appl
 
 I'm interested in the engineering behind the interface—how data moves, how decisions are explained, and how systems handle failures.
 
+## 🌐 Portfolio
+
+Explore my projects, technical skills, and the ideas I'm turning into working applications.
+
+**[Visit My Portfolio →](https://portfolio-rust-one-3s7b0y98cc.vercel.app/)**
+
+---
+
 ## Featured Work
 
 ### Nexnethra · AI Scam Shield
