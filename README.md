@@ -28,29 +28,6 @@ Explore my projects, technical skills, and the ideas I'm turning into working ap
 
 ---
 
-## Featured Work
-
-### Nexnethra · AI Scam Shield
-
-**Know the risk before you tap.**
-
-An evolving project exploring a practical question:
-
-> How can we help people recognise a suspicious digital interaction before they act on it?
-
-My related **TrustShield / TRINETRA prototype** brings together:
-
-- **Multiple scan workflows** — URL, email, message, and QR analysis.
-- **Explainable results** — risk scores, detected signals, and recommended actions.
-- **A connected application** — React frontend, Express backend, and PostgreSQL.
-- **Machine learning integration** — a separate Python service for analysis.
-
-**Stage:** Prototype under active development.
-
-[View the TRINETRA Codebase →](https://github.com/Adarsha0307/trinethra)
-
----
-
 ## Technical Toolkit
 
 <p>
