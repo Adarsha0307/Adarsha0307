@@ -31,23 +31,28 @@ Explore my projects, technical skills, and the ideas I'm turning into working ap
 
 ---
 
+
 ## Technical Toolkit
 
 <p>
   <img
-    src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,express,postgres,git,github&perline=10"
-    alt="React, JavaScript, HTML, CSS, Tailwind CSS, Node.js, Express, PostgreSQL, Git, and GitHub"
+    src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,express,postgres,github,git,linux,figma&perline=10"
+    alt="Technical skills and tools"
   />
 </p>
 
-| Area | Technologies |
-|:-----|:-------------|
+| Area | Technologies & Tools |
+|:-----|:---------------------|
 | Frontend | React, JavaScript, HTML, CSS, Tailwind CSS |
 | Backend | Node.js, Express, REST APIs |
 | Database | PostgreSQL |
-| AI & Integration | AI APIs, LLM Integration, Prompt Engineering |
-| Development | Git, GitHub, VS Code |
+| AI & AI Development | Claude, AI APIs, LLM Integration, Prompt Engineering |
+| IDEs & Development | VS Code, Antigravity, Git, GitHub |
+| Design & UI/UX | Figma, Google Stitch, UI/UX Design, Prototyping |
+| Productivity & Documentation | Notion |
+| Operating Systems | Linux, Windows |
 | Project Experience | Authentication, API Security, Input Validation, Rate Limiting, AI Integration |
+
 
 ## Current Focus
 
