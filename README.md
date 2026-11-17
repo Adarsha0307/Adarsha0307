@@ -1,10 +1,11 @@
+
 <div align="center">
 
 # Adarsha B U
 
-### Full-Stack Developer · Building with AI · Exploring Cybersecurity
+### Full-Stack Developer · AI Product Builder · CSBS Student
 
-Building web applications with a focus on usability, security, and clear explanations.
+Building digital products, AI-powered applications, and practical solutions to real-world problems.
 
 [LinkedIn](https://www.linkedin.com/in/adarsha-b-u-14ab32364/) · [GitHub](https://github.com/Adarsha0307) · [Explore My Work](https://github.com/Adarsha0307?tab=repositories)
 
@@ -16,9 +17,11 @@ Building web applications with a focus on usability, security, and clear explana
 
 I'm a second-year B.Tech student in **Computer Science and Business Systems**, based in Karnataka, India.
 
-I work with **React, Node.js, Express, and PostgreSQL** to build full-stack applications. My current focus is digital trust: helping people understand suspicious links, messages, and other online interactions.
+I build full-stack applications and explore the intersection of **AI, software engineering, and product development**.
 
-I'm interested in the engineering behind the interface—how data moves, how decisions are explained, and how systems handle failures.
+My primary stack includes **React, JavaScript, Node.js, Express, and PostgreSQL**. I enjoy turning ideas into functional products, designing intuitive user experiences, building backend systems, and integrating AI into practical workflows.
+
+Currently, I'm exploring AI-powered product development, workflow automation, SaaS applications, and entrepreneurship.
 
 ## 🌐 Portfolio
 
@@ -42,39 +45,56 @@ Explore my projects, technical skills, and the ideas I'm turning into working ap
 | Frontend | React, JavaScript, HTML, CSS, Tailwind CSS |
 | Backend | Node.js, Express, REST APIs |
 | Database | PostgreSQL |
+| AI & Integration | AI APIs, LLM Integration, Prompt Engineering |
 | Development | Git, GitHub, VS Code |
-| Project experience | Authentication, input validation, rate limiting, AI API integration |
+| Project Experience | Authentication, API Security, Input Validation, Rate Limiting, AI Integration |
+
+## Current Focus
+
+- **Crevo:** Exploring technology services, website development, website audits, and digital solutions.
+- **Prox.AI:** Developing an AI-powered carousel creation and editing platform.
+- **KrishiSetu:** Working on an AI-powered farm-to-procurement platform for smarter agricultural coordination.
+- **AI & Automation:** Exploring intelligent workflows, AI agents, and practical AI-powered applications.
 
 ## Deepening My Skills
 
-- **Software engineering:** data structures, debugging, and maintainable architecture.
-- **Applied AI:** machine learning fundamentals, LLMs, and evaluating model outputs.
-- **Application security:** secure authentication, API protection, and privacy-conscious design.
+- **Software Engineering:** Data structures, debugging, system design, and maintainable architecture.
+- **Applied AI:** Machine learning fundamentals, LLMs, AI-powered applications, and intelligent automation.
+- **Product Development:** UI/UX design, product thinking, prototyping, and translating ideas into working products.
+- **Entrepreneurship:** Product strategy, problem identification, business models, and technology-driven solutions.
 
 ---
 
 ## Let's Connect
 
-I'm interested in **frontend and full-stack internships**, student hackathons,
-and collaborations on useful web applications.
+I'm interested in connecting with developers, founders, and people building meaningful technology.
 
-If you're working on digital safety or an interesting full-stack problem,
-I'd be glad to exchange ideas.
+I'm open to:
+
+- Full-stack and AI-focused opportunities.
+- Student hackathons and technical competitions.
+- Collaborations on AI-powered products.
+- Open-source contributions and developer communities.
+
+If you're working on an interesting product or have a challenging technical problem, I'd be glad to exchange ideas.
 
 **[Connect on LinkedIn →](https://www.linkedin.com/in/adarsha-b-u-14ab32364/)**
 
-</div>
+---
 
 ## Support My Work
 
 If you find my projects useful, you can support what I build next.
-Your support helps me keep learning, building, and sharing.
 
-<a href="https://buymeacoffee.com/adarshabu">
-  <img
-    src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-    alt="Buy me a coffee"
-    height="60"
-    width="217"
-  />
-</a>
+Your support helps me keep learning, building, experimenting, and sharing.
+
+<div align="center">
+  <a href="https://buymeacoffee.com/adarshabu">
+    <img
+      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+      alt="Buy me a coffee"
+      height="60"
+      width="217"
+    />
+  </a>
+</div>
