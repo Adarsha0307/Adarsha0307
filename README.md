@@ -8,6 +8,10 @@
 Building digital products, AI-powered applications, and practical solutions to real-world problems.
 
 [LinkedIn](https://www.linkedin.com/in/adarsha-b-u-14ab32364/) · [GitHub](https://github.com/Adarsha0307) · [Explore My Work](https://github.com/Adarsha0307?tab=repositories)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adarsha0307&label=PROFILE+VIEWS&color=10b981&style=flat" alt="Profile Views" />
+</div>
+
 
 </div>
 
